@@ -1,1 +1,3 @@
-Testet de comando "git pull"
+Práctica de comando "git pull"
+
+Práctica v2 de comando "git add . "
